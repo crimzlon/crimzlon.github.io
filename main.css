@@ -78,7 +78,7 @@
         }
 
         .gradient-text {
-            background: linear-gradient(45deg, #FDFEFF, #C8E0FD, #8EBFFB);
+            background: linear-gradient(45deg, #FFFFFF, #FFFFFF, #FFFFFF);
             -webkit-background-clip: text;
             background-clip: text;
             color: transparent;
@@ -86,7 +86,7 @@
         }
 
         .atlas-gradient {
-            background: linear-gradient(45deg, #5A9EF8, #3676EF);
+            background: linear-gradient(45deg, #FFFFFF, #FFFFFF);
             -webkit-background-clip: text;
             background-clip: text;
             color: transparent;
